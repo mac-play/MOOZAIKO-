@@ -1,16 +1,4 @@
 
-<script type="text/javascript">
-	atOptions = {
-		'key' : '3e55cdc44a9dc84c0126c9020709bf6b',
-		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.highperformanceformat.com/3e55cdc44a9dc84c0126c9020709bf6b/invoke.js"></script>
-
-
 #EXTM3U
 
 #EXTINF:-1 tvg-id="canal1" tvg-name="Nome do Canal 1" tvg-logo="URL_do_Logo_1",Nome do Canal 1
@@ -21,3 +9,58 @@ URL_do_Stream_2
 URL_do_Stream_3
 #EXTINF:-1,Nome do Canal 4 (Sem metadados adicionais)
 URL_do_Stream_4
+
+############################################################## FILMES// FILMES ############## ###############################################
+
+• RUNTIME 
+• CANELA
+•
+• 
+
+
+💤 RUNTIME
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RunTime Ação 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RunTime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RunTime Suspense e Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RunTime Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RunTime Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RunTime Família
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES",RunTime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+💤CANELA TV 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m9BKIY6.png" group-title="FILMES",Acción Mexicana | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m9BKIY6.png" group-title="FILMES",Acción Mexicana | Canela TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1736
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vjqgSsY.png" group-title="FILMES",Canela Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vjqgSsY.png" group-title="FILMES",Canela Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vjqgSsY.png" group-title="FILMES",Canela Clásicos 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1732
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vjqgSsY.png" group-title="FILMES",Canela Clásicos 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1734
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRCCzun.png" group-title="FILMES",Canela Hollywood
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
+
